@@ -1,0 +1,4 @@
+landmark only : 각도 과적합
+angle 더하는게 확실히 더 강건하다는 인상이 있음(미묘함)
+random forest는 추정 값이 너무 애매하게나옴(40~60) random forest 자체 특징때문으로 추정됨. 보고서에 녹이면 좋을듯
+svm과 mlp 사이 경쟁
